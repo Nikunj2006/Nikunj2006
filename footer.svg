@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#D9EFE7"/><stop offset=".35" stop-color="#E8F5F7"/><stop offset=".7" stop-color="#E7E0F5"/><stop offset="1" stop-color="#FFE0CC"/></linearGradient>
-<style>.w{animation:w 5s ease-in-out infinite}@keyframes w{50%{transform:translateY(-12px)}}</style></defs>
-<path class="w" d="M0 105 Q150 50 300 105 T600 105 T900 105 T1200 105 V180 H0Z" fill="url(#g)"/>
-<text x="600" y="78" text-anchor="middle" font-family="Arial" font-size="28" font-weight="800" fill="#263238" letter-spacing="5">KEEP MOVING</text>
-<text x="600" y="108" text-anchor="middle" font-family="monospace" font-size="13" fill="#667085">MAKE IT WORK · MAKE IT CLEAN · MAKE IT BETTER</text>
-</svg>
